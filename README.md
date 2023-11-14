@@ -1,2 +1,2 @@
 # Legendary-Pokemon-Classification
-Simple classification of original 151 pokemon using KNN
+Simple classification of 800 pokemon using KNN
